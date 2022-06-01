@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRAM xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<RAM>
+		<Brand>PNY</Brand>
+		<Model>MD2048SD3-1333-V2</Model>
+		<Cost>14.99</Cost>
+		<Capacity>2048</Capacity>
+		<Type>DDR3</Type>
+		<ClockSpeed>1333</ClockSpeed>
+		<CasLatency>9</CasLatency>
+		<Voltage>1.5</Voltage>
+	</RAM>
+	<RAM>
+		<Brand>G.SKILL</Brand>
+		<Model>F5-6400J3239G16GX2-TZ5RK</Model>
+		<Cost>420</Cost>
+		<Capacity>16000</Capacity>
+		<Type>DDR5</Type>
+		<ClockSpeed>6400</ClockSpeed>
+		<CasLatency>32</CasLatency>
+		<Voltage>1.4</Voltage>
+	</RAM>
+	<RAM>
+		<Brand>CORSAIR</Brand>
+		<Model>CMW64GX4M4D3600C18</Model>
+		<Cost>254.89</Cost>
+		<Capacity>16000</Capacity>
+		<Type>DDR4</Type>
+		<ClockSpeed>3600</ClockSpeed>
+		<CasLatency>18</CasLatency>
+		<Voltage>1.35</Voltage>
+	</RAM>
+</ArrayOfRAM>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVideoCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<VideoCard>
+		<Brand>EVGA</Brand>
+		<Series>SuperClocked</Series>
+		<Model>01G-P3-1461-KR</Model>
+		<Cost>99</Cost>
+		<ChipsetManufacturer>NVIDIA</ChipsetManufacturer>
+		<GPU>GeForce GTX 560 (Fermi)</GPU>
+		<CoreClock>850</CoreClock>
+		<MemorySize>1024</MemorySize>
+		<MemoryInterface>256</MemoryInterface>
+		<MemoryType>GDDR5</MemoryType>
+		<DirectX>DirectX 11</DirectX>
+		<OpenGL>OpenGL 4.1</OpenGL>
+	</VideoCard>
+	<VideoCard>
+		<Brand>Yeston</Brand>
+		<Series>RX6800XT</Series>
+		<Model>RX6800XT YB</Model>
+		<Cost>869.99</Cost>
+		<ChipsetManufacturer>AMD</ChipsetManufacturer>
+		<GPU>Radeon RX 6800 XT</GPU>
+		<CoreClock>2310</CoreClock>
+		<MemorySize>16000</MemorySize>
+		<MemoryInterface>256</MemoryInterface>
+		<MemoryType>GDDR6</MemoryType>
+		<DirectX>DirectX 12</DirectX>
+		<OpenGL>OpenGL 4.6</OpenGL>
+	</VideoCard>
+	<VideoCard>
+		<Brand>Yeston</Brand>
+		<Series>GTX 1660 Super</Series>
+		<Model>GTX 1660 Super-6G GB</Model>
+		<Cost>429</Cost>
+		<ChipsetManufacturer>NVIDIA</ChipsetManufacturer>
+		<GPU>GeForce GTX 1660 SUPER</GPU>
+		<CoreClock>1785</CoreClock>
+		<MemorySize>6000</MemorySize>
+		<MemoryInterface>192</MemoryInterface>
+		<MemoryType>GDDR6</MemoryType>
+		<DirectX>DirectX 12</DirectX>
+		<OpenGL>OpenGL 4.6</OpenGL>
+	</VideoCard>
+</ArrayOfVideoCard>

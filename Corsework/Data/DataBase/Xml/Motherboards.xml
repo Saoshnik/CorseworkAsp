@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMotherboard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Motherboard>
+		<Brand>BIOSTAR</Brand>
+		<Model>N68S3+</Model>
+		<Cost>150</Cost>
+		<CPUSocket>AM3</CPUSocket>
+		<CPUType>
+			<string>Phenom II</string>
+			<string>Athlon II</string>
+			<string>Sempron 100 Series</string>
+		</CPUType>
+		<MemoryType>DDR3</MemoryType>
+		<MemoryMinFrequency>800</MemoryMinFrequency>
+		<MemoryMaxFrequence>1333</MemoryMaxFrequence>
+		<MemoryNumberOfSlots>2</MemoryNumberOfSlots>
+		<MemoryMaxSize>8</MemoryMaxSize>
+	</Motherboard>
+	<Motherboard>
+		<Brand>Asus</Brand>
+		<Model>ZENITH II EXTREME ALPHA</Model>
+		<Cost>1277.85</Cost>
+		<CPUSocket>sTRX4</CPUSocket>
+		<CPUType>
+			<string>Ryzen III</string>
+		</CPUType>
+		<MemoryType>DDR4</MemoryType>
+		<MemoryMinFrequency>2400</MemoryMinFrequency>
+		<MemoryMaxFrequence>5000</MemoryMaxFrequence>
+		<MemoryNumberOfSlots>8</MemoryNumberOfSlots>
+		<MemoryMaxSize>512</MemoryMaxSize>
+	</Motherboard>
+	<Motherboard>
+		<Brand>MSI</Brand>
+		<Model>TRX40 PRO WIFI</Model>
+		<Cost>560</Cost>
+		<CPUSocket>sTRX4</CPUSocket>
+		<CPUType>
+			<string>Ryzen III</string>
+		</CPUType>
+		<MemoryType>DDR4</MemoryType>
+		<MemoryMinFrequency>2000</MemoryMinFrequency>
+		<MemoryMaxFrequence>4666</MemoryMaxFrequence>
+		<MemoryNumberOfSlots>8</MemoryNumberOfSlots>
+		<MemoryMaxSize>256</MemoryMaxSize>
+	</Motherboard>
+</ArrayOfMotherboard>

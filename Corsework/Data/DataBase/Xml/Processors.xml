@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Processor>
+		<Brand>AMD</Brand>
+		<Series>Athlon II X2</Series>
+		<Model>ADX255OCGMBOX</Model>
+		<Cost>62.99</Cost>
+		<Socket>AM3</Socket>
+		<Name>Athlon II X2 255</Name>
+		<NumberOfCores>2</NumberOfCores>
+		<ClockSpeed>3100</ClockSpeed>
+		<CacheLevel1>256</CacheLevel1>
+		<CacheLevel2>2</CacheLevel2>
+		<CacheLevel3>0</CacheLevel3>
+		<ManufacturingTech>45</ManufacturingTech>
+		<MaxTDP>65</MaxTDP>
+	</Processor>
+	<Processor>
+		<Brand>AMD</Brand>
+		<Series>Ryzen Threadripper 3rd Gen</Series>
+		<Model>100-100000010WOF</Model>
+		<Cost>1459.63</Cost>
+		<Socket>Socket sTRX4</Socket>
+		<Name>Ryzen Threadripper 3960X</Name>
+		<NumberOfCores>24</NumberOfCores>
+		<ClockSpeed>3800000</ClockSpeed>
+		<CacheLevel1>1500</CacheLevel1>
+		<CacheLevel2>12000</CacheLevel2>
+		<CacheLevel3>400000</CacheLevel3>
+		<ManufacturingTech>7</ManufacturingTech>
+		<MaxTDP>280</MaxTDP>
+	</Processor>
+	<Processor>
+		<Brand>Intel</Brand>
+		<Series>Core i7 12th Gen</Series>
+		<Model>BX8071512700K</Model>
+		<Cost>509.7</Cost>
+		<Socket>LGA 1700</Socket>
+		<Name>Core i7-12700K</Name>
+		<NumberOfCores>12</NumberOfCores>
+		<ClockSpeed>3100</ClockSpeed>
+		<CacheLevel1>900</CacheLevel1>
+		<CacheLevel2>1200</CacheLevel2>
+		<CacheLevel3>250000</CacheLevel3>
+		<ManufacturingTech>9</ManufacturingTech>
+		<MaxTDP>190</MaxTDP>
+	</Processor>
+</ArrayOfProcessor>
